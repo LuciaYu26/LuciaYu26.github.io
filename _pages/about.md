@@ -10,7 +10,7 @@ redirect_from:
 
 I am a masters student from [School of Physical and mathematical science](https://www.ntu.edu.sg/spms), [Nanyang Technological University](https://www.ntu.edu.sg) majoring in Analysis. My research interest includes statistical modeling, biostatistics, machine learning, sampling design and extreme.
 
-You can find my CV here:[CV - Qing Yu](../assets/CV - Qing Yu.pdf)
+You can find my CV here:[CV - Qing Yu](https://github.com/LuciaYu26/LuciaYu26.github.io/tree/master/assets/CV - Qing Yu.pdf)
 
 A data-driven personal website
 ======
